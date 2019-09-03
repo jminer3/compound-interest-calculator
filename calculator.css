@@ -7,3 +7,47 @@ body * {
 ul li {
 	margin-bottom: 10px;
 }
+h1 {
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+	max-width: 6em;
+
+	margin-top: 1%;
+
+	font-size: 64px;
+}
+
+h2 {
+	font-size: 36px;
+}
+
+li {
+	font-size: 18px;
+}
+
+p {
+	font-size: 18px;
+}
+
+form {
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+	max-width: 28em;
+
+
+	margin-left: 16%;
+	margin-top: 1%;
+	float:left;
+}
+
+section {
+	border-top: 3px solid black;
+	border-right: 3px solid black;
+
+	margin-top: 6%;
+	margin-right: 16%;
+	float:right;
+
+
+	text-align: right;
+}
